@@ -1,0 +1,32 @@
+<svg width="1000" height="760" viewBox="0 0 1000 760" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Professional IT office portrait</title>
+  <desc id="desc">Illustrated profile scene with workstation and technology elements.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f5f8ff"/>
+      <stop offset="1" stop-color="#dde8ff"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2b5dff"/>
+      <stop offset="1" stop-color="#1c3eb8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="760" fill="url(#bg)"/>
+  <rect x="100" y="100" width="800" height="560" rx="30" fill="#ffffff"/>
+  <rect x="145" y="180" width="420" height="250" rx="18" fill="#eaf0ff"/>
+  <rect x="175" y="210" width="360" height="165" rx="10" fill="#1d2a49"/>
+  <rect x="205" y="242" width="300" height="14" rx="7" fill="#8aa8ff"/>
+  <rect x="205" y="274" width="220" height="14" rx="7" fill="#4d79ff"/>
+  <rect x="205" y="306" width="170" height="14" rx="7" fill="#3d60cc"/>
+  <rect x="290" y="430" width="130" height="28" rx="10" fill="#cad8ff"/>
+  <rect x="600" y="230" width="250" height="300" rx="20" fill="#f3f6ff"/>
+  <circle cx="725" cy="285" r="55" fill="#f0c9a8"/>
+  <path d="M670 390c10-55 35-85 55-85h0c20 0 45 30 55 85" fill="#23355f"/>
+  <rect x="665" y="375" width="120" height="145" rx="26" fill="url(#accent)"/>
+  <rect x="640" y="490" width="170" height="28" rx="14" fill="#d8e3ff"/>
+  <circle cx="870" cy="185" r="38" fill="#d7e3ff"/>
+  <path d="M858 186h24M870 174v24" stroke="#2b5dff" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="160" cy="600" r="26" fill="#d7e3ff"/>
+  <circle cx="230" cy="610" r="16" fill="#aec4ff"/>
+  <circle cx="830" cy="620" r="22" fill="#b9cbff"/>
+</svg>
